@@ -7,6 +7,6 @@ Add the following line to your project's `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.unity.standard-asset": "https://github.com/quoccuonggamedev/UnityStandardAssets.git"
+    "UnityStandardAssets": "https://github.com/quoccuonggamedev/UnityStandardAssets.git"
   }
 }
