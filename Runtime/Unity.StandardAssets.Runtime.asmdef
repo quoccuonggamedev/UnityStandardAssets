@@ -1,0 +1,15 @@
+{
+    "name": "Unity.StandardAssets.Runtime",
+    "rootNamespace": "UnityStandardAssets",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
+

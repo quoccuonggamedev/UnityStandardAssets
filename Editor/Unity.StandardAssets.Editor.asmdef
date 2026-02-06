@@ -1,0 +1,19 @@
+{
+    "name": "Unity.StandardAssets.Editor",
+    "rootNamespace": "UnityStandardAssets",
+    "references": [
+        "Unity.StandardAssets.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
+
