@@ -1,7 +1,8 @@
 # Unity Standard Assets for URP
 
-Add this package directly via Unity Package Manager using `manifest.json`.
-Add the following line to the `dependencies` section:
+## Supported Unity 6
+## Installation (via Git URL)
+Add the following line to your project's `Packages/manifest.json`:
 
 ```json
 {
